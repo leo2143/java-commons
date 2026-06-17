@@ -1,0 +1,17 @@
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\exception\BusinessException.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\exception\EntityNotFoundException.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\exception\GlobalExceptionHandler.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\exception\ValidationException.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\mapper\BaseMapper.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\mapper\CreateMapper.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\mapper\CrudMapper.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\mapper\ReadMapper.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\mapper\UpdateMapper.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\openapi\I18nUtil.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\openapi\OpenApiI18nCustomizer.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\pagination\PageableRequest.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\pagination\PageResponse.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\response\ApiError.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\response\ApiResponse.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\response\PagedResponse.java
+C:\Users\leonardo.orellana\OneDrive - ACCUSYS TECHNOLOGY S R L\Documentos\proyectos-personales\soulnard-repos\soulnard-proyects\soulnard-commons\src\main\java\com\soulnard\commons\service\CrudService.java
